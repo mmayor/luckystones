@@ -18,6 +18,7 @@ function App() {
         >
           Testing New REACT for HOME
           <p>Piedras Magicas</p>
+          <p>Otras Piedras</p>
         </a>
       </header>
     </div>
