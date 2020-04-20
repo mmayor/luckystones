@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Testing New REACT for HOME
+          <p>Piedras Magicas</p>
         </a>
       </header>
     </div>
